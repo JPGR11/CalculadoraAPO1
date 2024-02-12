@@ -5,11 +5,11 @@ public class Ejercicioclase6 {
 	public static void main (String[] args){
 		Scanner in = new Scanner(System.in);
 		
-		String saborhelado; // Declararlo
+		String helalo; // Declararlo
 		
 		System.out.println("¿Cúal es tu sabor de helado favorito?");
 		
-		saborhelado = in.nextLine();
+		helado = in.nextLine();
 		
 		System.out.println("Tu sabor elegido fue: " + saborhelado);
 		
